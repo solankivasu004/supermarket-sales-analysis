@@ -1,0 +1,20 @@
+product_id,product_name,product_line,unit_price
+P001,Rice 5kg,Groceries,18.5
+P002,Olive Oil 1L,Groceries,12.0
+P003,Coffee 500g,Groceries,9.5
+P004,Shampoo,Health & Beauty,7.0
+P005,Face Wash,Health & Beauty,6.5
+P006,Vitamins,Health & Beauty,14.0
+P007,Storage Box,Home & Lifestyle,8.0
+P008,Desk Lamp,Home & Lifestyle,22.0
+P009,Towels,Home & Lifestyle,11.5
+P010,USB Cable,Electronic Accessories,5.0
+P011,Power Bank,Electronic Accessories,25.0
+P012,Headphones,Electronic Accessories,18.0
+P013,Wallet,Fashion Accessories,15.0
+P014,Scarf,Fashion Accessories,12.0
+P015,Watch,Fashion Accessories,35.0
+P016,Water Bottle,Sports & Travel,9.0
+P017,Yoga Mat,Sports & Travel,20.0
+P018,Travel Bag,Sports & Travel,32.0
+
