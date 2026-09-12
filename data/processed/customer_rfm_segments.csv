@@ -1,0 +1,238 @@
+customer_id,recency_days,frequency,monetary,cluster,segment
+C0001,36,8,242.04,1,Regular
+C0002,19,7,389.03,1,Regular
+C0003,55,14,362.27,2,High Value
+C0004,25,10,303.98,1,Regular
+C0005,12,9,271.44,1,Regular
+C0006,8,14,446.27,2,High Value
+C0007,24,9,279.31,1,Regular
+C0008,15,14,481.43,2,High Value
+C0009,7,11,401.1,2,High Value
+C0010,48,14,421.05,2,High Value
+C0011,69,9,185.86,1,Regular
+C0012,115,11,323.41,1,Regular
+C0013,31,10,275.11,1,Regular
+C0014,62,6,155.93,4,Occasional
+C0015,20,13,403.22,2,High Value
+C0016,4,17,499.81,2,High Value
+C0017,22,14,478.28,2,High Value
+C0018,18,7,167.48,1,Regular
+C0019,61,11,263.04,1,Regular
+C0020,7,11,389.03,2,High Value
+C0021,2,18,744.97,2,High Value
+C0022,25,18,588.54,2,High Value
+C0023,50,7,174.3,4,Occasional
+C0024,54,11,576.45,2,High Value
+C0025,0,8,305.03,1,Regular
+C0026,42,9,407.41,1,Regular
+C0027,13,8,361.73,1,Regular
+C0028,9,16,468.32,2,High Value
+C0029,127,11,212.11,1,Regular
+C0030,14,13,538.13,2,High Value
+C0031,24,14,355.97,2,High Value
+C0032,38,8,370.66,1,Regular
+C0033,23,11,312.91,1,Regular
+C0034,28,13,330.23,2,High Value
+C0035,5,7,185.33,1,Regular
+C0036,11,10,426.83,2,High Value
+C0037,12,11,331.8,1,Regular
+C0038,51,14,338.11,2,High Value
+C0039,12,11,369.08,2,High Value
+C0040,4,15,545.48,2,High Value
+C0041,16,12,288.76,1,Regular
+C0042,107,7,187.95,4,Occasional
+C0043,2,8,299.78,1,Regular
+C0044,48,7,352.8,1,Regular
+C0045,47,10,310.28,1,Regular
+C0046,76,7,206.33,1,Regular
+C0047,4,12,366.46,2,High Value
+C0048,48,11,637.88,2,High Value
+C0049,9,11,346.51,1,Regular
+C0050,11,7,248.85,1,Regular
+C0051,73,11,266.71,1,Regular
+C0052,3,14,406.89,2,High Value
+C0053,2,10,416.33,2,High Value
+C0054,25,5,139.13,4,Occasional
+C0055,10,6,252.0,1,Regular
+C0056,16,9,227.86,1,Regular
+C0057,3,12,458.86,2,High Value
+C0058,23,14,279.84,2,High Value
+C0059,19,11,332.34,1,Regular
+C0060,126,9,315.53,1,Regular
+C0061,40,13,452.03,2,High Value
+C0062,32,8,406.35,1,Regular
+C0063,60,10,160.67,1,Regular
+C0064,25,8,194.25,1,Regular
+C0065,57,10,346.5,1,Regular
+C0066,12,17,500.35,2,High Value
+C0067,14,10,347.55,1,Regular
+C0068,13,9,372.23,1,Regular
+C0069,6,11,590.63,2,High Value
+C0070,71,11,269.33,1,Regular
+C0071,37,11,263.56,1,Regular
+C0072,4,9,543.9,2,High Value
+C0073,12,10,310.82,1,Regular
+C0074,38,11,430.5,2,High Value
+C0075,96,6,158.55,4,Occasional
+C0076,23,9,257.26,1,Regular
+C0077,49,6,293.47,1,Regular
+C0078,91,9,407.4,1,Regular
+C0079,6,10,330.76,1,Regular
+C0080,14,7,224.7,1,Regular
+C0081,43,15,560.19,2,High Value
+C0082,1,15,496.66,2,High Value
+C0083,188,4,248.85,3,At Risk
+C0084,1,6,182.18,4,Occasional
+C0085,40,5,57.76,4,Occasional
+C0086,2,10,456.23,2,High Value
+C0087,38,7,180.6,1,Regular
+C0088,43,8,338.63,1,Regular
+C0089,6,11,255.68,1,Regular
+C0090,51,12,315.53,1,Regular
+C0091,7,11,401.64,2,High Value
+C0092,34,11,573.83,2,High Value
+C0093,15,9,468.3,2,High Value
+C0094,54,6,247.8,1,Regular
+C0095,13,9,494.03,2,High Value
+C0096,1,9,244.13,1,Regular
+C0097,46,11,289.81,1,Regular
+C0098,54,15,424.21,2,High Value
+C0099,2,13,296.11,2,High Value
+C0100,0,9,330.23,1,Regular
+C0101,33,8,301.88,1,Regular
+C0102,26,5,257.25,1,Regular
+C0103,187,11,302.93,1,Regular
+C0104,2,10,255.69,1,Regular
+C0105,29,9,408.46,1,Regular
+C0106,36,12,324.46,1,Regular
+C0107,88,6,241.5,1,Regular
+C0108,12,21,674.11,2,High Value
+C0109,48,15,279.32,2,High Value
+C0110,9,7,267.23,1,Regular
+C0111,9,12,346.5,2,High Value
+C0112,25,5,171.16,4,Occasional
+C0113,100,9,441.01,1,Regular
+C0114,66,6,307.65,1,Regular
+C0115,13,8,415.28,1,Regular
+C0116,16,12,405.3,2,High Value
+C0117,103,6,169.06,4,Occasional
+C0118,36,8,180.62,1,Regular
+C0119,27,9,305.03,1,Regular
+C0120,61,9,336.53,1,Regular
+C0121,37,8,309.76,1,Regular
+C0122,51,14,457.29,2,High Value
+C0123,78,12,326.57,1,Regular
+C0124,11,11,174.83,1,Regular
+C0125,75,11,296.1,1,Regular
+C0126,65,5,243.08,4,Occasional
+C0127,17,13,443.63,2,High Value
+C0128,14,15,763.36,2,High Value
+C0129,0,13,334.44,2,High Value
+C0130,19,7,278.25,1,Regular
+C0131,4,13,468.83,2,High Value
+C0132,31,14,449.93,2,High Value
+C0133,40,9,227.33,1,Regular
+C0134,39,10,299.25,1,Regular
+C0135,33,13,376.96,2,High Value
+C0136,5,13,331.28,2,High Value
+C0137,17,12,412.65,2,High Value
+C0138,43,12,327.08,1,Regular
+C0139,10,10,379.58,1,Regular
+C0140,44,11,399.02,2,High Value
+C0141,46,8,407.4,1,Regular
+C0142,74,8,291.9,1,Regular
+C0143,26,11,317.63,1,Regular
+C0144,23,12,376.96,2,High Value
+C0145,16,8,269.34,1,Regular
+C0146,29,7,181.13,1,Regular
+C0147,14,7,125.48,4,Occasional
+C0148,34,12,509.25,2,High Value
+C0149,55,5,108.15,4,Occasional
+C0150,34,11,332.34,1,Regular
+C0151,117,1,58.28,4,Occasional
+C0152,42,3,24.16,4,Occasional
+C0153,237,1,67.2,3,At Risk
+C0154,39,5,198.98,4,Occasional
+C0155,150,2,54.6,3,At Risk
+C0156,10,1,28.35,4,Occasional
+C0157,81,4,64.58,4,Occasional
+C0158,156,1,134.4,3,At Risk
+C0159,31,5,123.38,4,Occasional
+C0160,50,4,109.73,4,Occasional
+C0161,165,1,8.4,3,At Risk
+C0162,14,4,180.6,4,Occasional
+C0163,69,2,60.9,4,Occasional
+C0164,47,4,68.78,4,Occasional
+C0166,23,1,9.45,4,Occasional
+C0167,162,4,166.42,3,At Risk
+C0168,122,3,110.25,4,Occasional
+C0169,56,1,36.23,4,Occasional
+C0170,74,1,13.65,4,Occasional
+C0171,250,2,50.4,3,At Risk
+C0172,194,2,37.8,3,At Risk
+C0173,63,3,67.73,4,Occasional
+C0174,60,2,47.25,4,Occasional
+C0175,91,4,66.68,4,Occasional
+C0176,98,2,64.05,4,Occasional
+C0177,177,1,19.43,3,At Risk
+C0178,361,1,36.75,3,At Risk
+C0179,274,2,59.85,3,At Risk
+C0180,19,3,56.18,4,Occasional
+C0181,145,3,74.55,3,At Risk
+C0182,2,3,73.5,4,Occasional
+C0183,21,6,185.33,4,Occasional
+C0184,245,1,75.6,3,At Risk
+C0186,160,2,84.0,3,At Risk
+C0187,12,5,151.2,4,Occasional
+C0188,54,2,85.58,4,Occasional
+C0189,62,2,87.15,4,Occasional
+C0190,21,7,215.25,1,Regular
+C0191,81,5,219.98,4,Occasional
+C0192,208,2,86.1,3,At Risk
+C0193,48,5,123.9,4,Occasional
+C0194,28,4,216.3,4,Occasional
+C0195,59,5,151.73,4,Occasional
+C0196,113,1,23.1,4,Occasional
+C0197,31,2,39.9,4,Occasional
+C0198,193,1,38.85,3,At Risk
+C0199,274,2,17.85,3,At Risk
+C0200,161,4,64.58,3,At Risk
+C0201,239,3,63.53,3,At Risk
+C0202,42,5,215.25,4,Occasional
+C0203,57,1,36.23,4,Occasional
+C0204,288,1,25.2,3,At Risk
+C0205,220,2,178.5,3,At Risk
+C0206,58,4,95.55,4,Occasional
+C0207,7,3,85.05,4,Occasional
+C0208,62,4,154.88,4,Occasional
+C0210,16,3,82.95,4,Occasional
+C0211,71,2,86.1,4,Occasional
+C0212,219,2,225.75,3,At Risk
+C0213,68,1,110.25,4,Occasional
+C0215,86,4,102.9,4,Occasional
+C0216,87,5,170.1,4,Occasional
+C0217,239,1,10.5,3,At Risk
+C0218,141,4,123.9,3,At Risk
+C0219,30,6,147.0,4,Occasional
+C0220,107,4,96.6,4,Occasional
+C0221,7,6,339.68,1,Regular
+C0222,52,7,303.45,1,Regular
+C0223,59,1,58.28,4,Occasional
+C0224,110,4,137.55,4,Occasional
+C0225,6,4,152.25,4,Occasional
+C0226,42,4,192.68,4,Occasional
+C0227,7,3,35.7,4,Occasional
+C0228,9,5,52.5,4,Occasional
+C0229,98,4,141.75,4,Occasional
+C0230,40,4,144.9,4,Occasional
+C0231,63,3,100.28,4,Occasional
+C0232,31,4,196.35,4,Occasional
+C0233,59,3,87.15,4,Occasional
+C0234,3,2,50.93,4,Occasional
+C0235,282,2,52.5,3,At Risk
+C0236,10,3,127.05,4,Occasional
+C0237,34,1,24.15,4,Occasional
+C0238,145,2,85.58,3,At Risk
+C0239,64,4,154.35,4,Occasional
+C0240,80,7,167.48,4,Occasional
+
